@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is FC0A-213C
+
+ Directory of C:\Users\hirve\Desktop\MyProject
+
+15-01-2021  10:11    <DIR>          .
+15-01-2021  10:11    <DIR>          ..
+15-01-2021  09:45                 0 dd.html.txt
+15-01-2021  09:45                20 index.txt
+15-01-2021  10:11                 0 login.txt
+               3 File(s)             20 bytes
+               2 Dir(s)  75,291,795,456 bytes free
